@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarcassMoving", "CarcassMoving.csproj", "{85C5578C-0F8F-42ED-8CAF-7C0F449776FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85C5578C-0F8F-42ED-8CAF-7C0F449776FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C5578C-0F8F-42ED-8CAF-7C0F449776FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C5578C-0F8F-42ED-8CAF-7C0F449776FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C5578C-0F8F-42ED-8CAF-7C0F449776FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFCBC690-E8FA-4FBB-B44B-CB3B50E7EEE7}
+	EndGlobalSection
+EndGlobal
